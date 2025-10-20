@@ -74,7 +74,7 @@
                         "X": 12,
                         "Y": 5
                     },
-                    "BuildCondition": "!BUILDINGS_CONSTRUCTED All FlashShifter.StardewValleyExpandedCP_Winery 1 10 true, PLAYER_HAS_SEEN_EVENT Any 8402752",
+                    "BuildCondition": "!BUILDINGS_CONSTRUCTED All FlashShifter.StardewValleyExpandedCP_Winery 8 10 true, PLAYER_HAS_SEEN_EVENT Any 8402752",
                     "BuildDays": 7,
                     "BuildCost": 500000,
                     "BuildMaterials": [
